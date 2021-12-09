@@ -1,2 +1,2 @@
 # femNftPrewievCard
-A challenge to recreeate a NFT Prewiev Card
+A challenge to recreate a NFT Prewiev Card
